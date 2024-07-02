@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeanitha !
+- 🌱 I'm a final year student at City University of Hong Kong
 - 👀 I’m interested in software and web development
-<!-- - 🌱 I’m currently learning -->
 - 📫 Reach me on https://www.linkedin.com/in/jeanitha/
 
 <!---
